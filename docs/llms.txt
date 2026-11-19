@@ -1,0 +1,202 @@
+# 妙手开放平台
+
+## Docs
+- 开放平台 [快速接入](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/doc-8586023.md): 
+
+## API Docs
+- 开放平台 > 商品 > 店铺 [获取店铺数据列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814596.md): 
+- 开放平台 > 商品 > 公共采集箱 [通过货源链接采集货源](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814581.md): **必填**：`collectLinks` (string[])
+- 开放平台 > 商品 > 公共采集箱 [创建公共采集箱产品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814585.md): 
+- 开放平台 > 商品 > 公共采集箱 [获取公共采集箱列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814582.md): 
+- 开放平台 > 商品 > 公共采集箱 [编辑公共采集箱产品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814586.md): 
+- 开放平台 > 商品 > 公共采集箱 [获取公共采集箱详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814583.md): 
+- 开放平台 > 商品 > 公共采集箱 [批量删除公共采集箱产品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814584.md): 
+- 开放平台 > 商品 > 公共采集箱 [认领到平台采集箱](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814587.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [获取类目列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814588.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [获取类目属性信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814589.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [获取店铺仓库列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814590.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [获取制造商列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-449869292.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [获取欧盟责任人列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-449869293.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [认领预发布店铺](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814594.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [获取采集箱列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814591.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [获取采集箱店铺模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814592.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [保存采集箱店铺模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814593.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [获取采集箱站点模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-449650816.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [保存采集箱站点模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-449650817.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [产品翻译](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482189160.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [AI匹配类目](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482189162.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [批量删除采集箱产品接口](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-496804330.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [AI属性匹配](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482189161.md): 
+- 开放平台 > 商品 > TK采集箱 > 采集箱 [获取品牌列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-497001483.md): 
+- 开放平台 > 商品 > TK采集箱 > 产品发布 [发布产品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-446814595.md): 
+- 开放平台 > 商品 > TK采集箱 > 产品发布 [发布记录列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482189163.md): 
+- 开放平台 > 商品 > TK采集箱 > 定价模板 [获取定价模板列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482189164.md): 
+- 开放平台 > 商品 > TK采集箱 > 定价模板 [获取各个站点的默认配置](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482189165.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 产品发布 [发布产品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468724006.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 产品发布 [发布记录列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-511668107.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 车型库 [获取车型库站点列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468724008.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 车型库 [获取车型库站点属性结构映射](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468724009.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 车型库 [获取站点顶级车型节点列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468724010.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 车型库 [获取车型属性依赖树](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468724011.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 车型库 [根据类目ID查询有车型库数据的类目列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468724007.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取类目属性规则](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545320.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取商品基本选项](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545321.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [创建采集箱商品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545322.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [认领预发布店铺](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545323.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取采集箱店铺模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545324.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [保存采集箱店铺模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545325.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取采集箱站点模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545326.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [保存采集箱站点模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545327.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取原产地国家列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545328.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [店铺模特列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545329.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取类目列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545330.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取尺码模板列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545331.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取尺码表详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545332.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取模特分类配置](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545333.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取采集箱列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545334.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [批量删除采集箱产品接口](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-471545335.md): 
+- 开放平台 > 商品 > TEMU全托采集箱 > 采集箱 [获取需要设置净重的类目列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-490449047.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 商品发布 [发布产品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468726294.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 商品发布 [发布记录列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-511667358.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 车型库 [获取车型库站点列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468726296.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 车型库 [获取车型库站点属性结构映射](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468726297.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 车型库 [获取站点顶级车型节点列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468726298.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 车型库 [获取车型属性依赖树](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468726299.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 车型库 [根据类目ID查询有车型库数据的类目列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-468726295.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取类目属性规则](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347599.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [店铺模特列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347600.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取商品基本选项](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347601.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [创建采集箱商品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347602.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [认领预发布店铺](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347603.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取采集箱站点模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347606.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [保存采集箱店铺模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347605.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取采集箱店铺模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347604.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [保存采集箱站点模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347607.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取原产地国家列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347608.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取发布站点选项](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347609.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取店铺运费模板](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347610.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取店铺发货仓库（支持同步）](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347611.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取类目列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347612.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取尺码模板列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347613.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取尺码表详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347614.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取模特分类配置](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347615.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取采集箱列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347616.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [批量删除采集箱产品接口](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477347617.md): 
+- 开放平台 > 商品 > TEMU半托采集箱 > 采集箱 [获取包装清单属性值列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-501791146.md): 
+- 开放平台 > 商品 > OZON采集箱 > 采集箱 [获取采集箱编辑币种](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-474774623.md): ozon采集箱涉及售价、原价、最低售价均为该币种，货源价格为CNY
+- 开放平台 > 商品 > OZON采集箱 > 采集箱 [获取类目列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-474774625.md): 
+- 开放平台 > 商品 > OZON采集箱 > 采集箱 [获取类目属性信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-474774626.md): 
+- 开放平台 > 商品 > OZON采集箱 > 采集箱 [获取采集箱列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-474774624.md): 
+- 开放平台 > 商品 > OZON采集箱 > 采集箱 [获取店铺仓库列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-474774627.md): 
+- 开放平台 > 商品 > OZON采集箱 > 采集箱 [获取采集箱站点模式详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-474774628.md): 
+- 开放平台 > 商品 > OZON采集箱 > 采集箱 [创建采集箱站点模式数据](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-474774629.md): 
+- 开放平台 > 商品 > OZON采集箱 > 采集箱 [编辑采集箱站点模式数据](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-474774630.md): 
+- 开放平台 > 商品 > OZON采集箱 > 产品发布 [发布记录列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-511671956.md): 
+- 开放平台 > 商品 > OZON采集箱 > 产品发布 [发布产品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-474774631.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [获取站点编辑信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434496.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [保存站点编辑数据](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516157439.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [创建采集箱SPU（手动添加商品）](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516157440.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [获取采集箱产品的源数据](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516157441.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [保存采集箱产品源数据信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516157442.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [获取采集箱列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516157443.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [获取品牌列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516157444.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [根据站点获取运费模板(物流方式)](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516157445.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [获取类目树](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516157446.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [获取类目属性信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516158667.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 采集箱 [获取仓库信息列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-516158668.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 商品发布 [发布记录列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-511672303.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 商品发布 [提交全球商品发布到店铺任务](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434554.md): 
+- 开放平台 > 商品 > Shopee采集箱 > 商品发布 [采集箱产品发布任务](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434555.md): 
+- 开放平台 > 商品 > 在线产品管理 > Shopee全球在线产品管理 [全球产品搜索](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434401.md): 
+- 开放平台 > 商品 > 在线产品管理 > Shopee全球在线产品管理 [全球产品详情（返回官方](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434402.md): 
+- 开放平台 > 商品 > 在线产品管理 > Shopee全球在线产品管理 [保存产品编辑](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434403.md): 
+- 开放平台 > 商品 > 在线产品管理 > Shopee全球在线产品管理 [获取属性列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434404.md): 
+- 开放平台 > 商品 > 在线产品管理 > Shopee全球在线产品管理 [获取全球店铺类目尺寸模板列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434405.md): 
+- 开放平台 > 商品 > 在线产品管理 > Shopee全球在线产品管理 [上传商品视频](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434406.md): 
+- 开放平台 > 商品 > 在线产品管理 > Shopee全球在线产品管理 [同步产品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434407.md): 
+- 开放平台 > 商品 > 在线产品管理 > Shopee全球在线产品管理 [全球产品删除](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-480434408.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 发布产品 [发布产品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482757484.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 发布产品 [发布记录列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-511672449.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取类目属性规则](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753632.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取类目配置](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753633.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取尺码表domain列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753635.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取尺码表表头和主属性信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753636.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取尺码表所需填写属性信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753637.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取授权站点和名称映射](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753639.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取商品基本选项](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753640.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [查询尺码表模板列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753641.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取采集箱详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753644.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [创建采集箱商品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753646.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [保存采集箱站点详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753647.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [同步店铺尺码表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753643.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取采集箱列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482753630.md): 
+- 开放平台 > 商品 > Mercadolibre采集箱 > 采集箱 [获取类目列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-484103119.md): 
+- 开放平台 > 商品 > AI公共服务 > 图片处理 [AI白底图](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482201652.md): 
+- 开放平台 > 商品 > AI公共服务 > 图片处理 [AI智能消除](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482190901.md): 
+- 开放平台 > 商品 > AI公共服务 > 图片处理 [搜索水印列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482200257.md): 
+- 开放平台 > 商品 > AI公共服务 > 图片处理 [图片打水印](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482200258.md): 
+- 开放平台 > 商品 > AI公共服务 > 图片处理 [获取支持的翻译语言配置](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-484286513.md): 
+- 开放平台 > 商品 > AI公共服务 > 图片处理 [图片翻译](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-484286514.md): 
+- 开放平台 > 商品 > AI公共服务 > AI润色 [AI生成产品信息（标题/描述）](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482190902.md): 
+- 开放平台 > 商品 > AI公共服务 > AI润色 [AI生成支持的语言map](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482190903.md): 
+- 开放平台 > 商品 > AI公共服务 > AI润色 [获取支持的AI名称列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-482190904.md): 
+- 开放平台 > 商品 > AI公共服务 > AI润色 [AI润色销售规格](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-484286515.md): 
+- 开放平台 > 商品 > 图片空间 [通过图片URL上传图片到图片空间](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-519663381.md): 
+- 开放平台 > 包裹 > 履约 > 基础管理 [获取当前账号有效的线下物流列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-455528071.md): 三方物流商以及三方仓
+- 开放平台 > 包裹 > 履约 > 基础管理 [获取当前包裹有效的线上物流列表 ](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-455611090.md): 在线发货以及拼接物流
+- 开放平台 > 包裹 > 售后 [获取退货退款列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477739260.md): 
+- 开放平台 > 包裹 > 售后 [获取取消订单列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477739261.md): 
+- 开放平台 > 包裹 > 包裹 > 运单 [申请运单号](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-457255661.md): 
+- 开放平台 > 包裹 > 包裹 > 运单 [批量申请运单号](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-523411121.md): 
+- 开放平台 > 包裹 > 包裹 > 运单 [设置包裹物流](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-457269520.md): 
+- 开放平台 > 包裹 > 包裹 > 运单 [获取包裹物流轨迹](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-477263048.md): 
+- 开放平台 > 包裹 > 包裹 > 运单 [获取运单面单](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-457264811.md): 
+- 开放平台 > 包裹 > 包裹 > 运单 [批量获取面单](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-523411122.md): 
+- 开放平台 > 包裹 > 包裹 > 基础信息修改 [保存包裹本地备注](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-457235460.md): 
+- 开放平台 > 包裹 > 包裹 > 基础信息修改 [保存包裹商家备注](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-457240926.md): 
+- 开放平台 > 包裹 > 包裹 > 获取包裹 [获取订单包裹详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-524317132.md): 
+- 开放平台 > 包裹 > 包裹 > 获取包裹 [获取订单包裹列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-524317133.md): 
+- 开放平台 > 包裹 > 包裹 > 发货 [包裹发货](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-455694578.md): 
+- 开放平台 > 包裹 > 采购记录 [采购记录列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-523326861.md): 
+- 开放平台 > 包裹 > 采购记录 [采购记录详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-523329034.md): 
+- 开放平台 > 采购 > 采购单 [添加采购单](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599772.md): 
+- 开放平台 > 采购 > 采购单 [创建1688采购单](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599773.md): 
+- 开放平台 > 采购 > 采购单 [编辑采购单](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599774.md): 
+- 开放平台 > 采购 > 采购单 [采购单动手填写运单号](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599775.md): 
+- 开放平台 > 采购 > 采购单 [采购单修改运单信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599776.md): 
+- 开放平台 > 采购 > 采购单 [采购单更新平台运单信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599777.md): 
+- 开放平台 > 采购 > 采购单 [取消采购单](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599778.md): 
+- 开放平台 > 采购 > 采购单 [标记采购单结束](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599779.md): 
+- 开放平台 > 采购 > 采购单 [向1688下单](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599780.md): 
+- 开放平台 > 采购 > 采购单 [获取采购单列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599781.md): 
+- 开放平台 > 采购 > 采购单 [签收记录列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599771.md): 
+- 开放平台 > 采购 > 采购单 [根据货源链接获取1688商品SKU列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-532434244.md): 
+- 开放平台 > 采购 > 采购单 [获取缺货、备货建议列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599782.md): 
+- 开放平台 > 采购 > 供应商 [获取供应商列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599789.md): 
+- 开放平台 > 采购 > 供应商 [获取供应商信息](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599790.md): 
+- 开放平台 > 采购 > 供应商 [获取供应商类型列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599791.md): 
+- 开放平台 > 采购 > 供应商 [修改供应商](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479653199.md): 
+- 开放平台 > 采购 > 供应商 [创建供应商](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479653198.md): 
+- 开放平台 > 仓储 > 商品 > 商品 [获取多规格商品列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599763.md): 
+- 开放平台 > 仓储 > 商品 > 商品 [获取商品详情](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599764.md): 
+- 开放平台 > 仓储 > 商品 > 商品 [添加商品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599765.md): 
+- 开放平台 > 仓储 > 商品 > 商品 [修改商品](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599767.md): 
+- 开放平台 > 仓储 > 商品 > 商品 [安全库存批量设置](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599766.md): 
+- 开放平台 > 仓储 > 商品 > 商品品牌 [获取列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599768.md): 
+- 开放平台 > 仓储 > 商品 > 商品分组 [获取商品分组列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599769.md): 
+- 开放平台 > 仓储 > 商品 > 商品sku [获取商品SKU列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599770.md): 
+- 开放平台 > 仓储 > 商品包材 [获取列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479592181.md): 
+- 开放平台 > 仓储 > 数据统计 > 销售数据 [获取商品销售数据列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479602617.md): 
+- 开放平台 > 仓储 > 数据统计 > 商品周转分析 [获取商品周转数据列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479602618.md): 
+- 开放平台 > 仓储 > 库存 > 三方仓sku库存 [获取三方仓商品库存列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599784.md): 
+- 开放平台 > 仓储 > 库存 > 自营仓库存 [获取自营仓商品库存列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599786.md): 
+- 开放平台 > 仓储 > 库存 > 自营仓库存 [获取商品SKU安全库存列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479599785.md): 
+- 开放平台 > 仓储 > 仓库 > 自营仓仓库 [获取供应商仓库列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-476990600.md): 
+- 开放平台 > 仓储 > 仓库 > 自营仓仓库 [获取自营仓仓库列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-476435300.md): 
+- 开放平台 > 仓储 > 仓库 > 三方仓仓库 [获取三方仓授权列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479592192.md): 
+- 开放平台 > 仓储 > 仓库 > 三方仓仓库 [获取平台仓库列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479592193.md): 
+- 开放平台 > 仓储 > 出入库 [查询出入库记录列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-532434240.md): 
+- 开放平台 > 仓储 > 出入库 [新建入库申请单](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-532434241.md): 
+- 开放平台 > 仓储 > 出入库 [新建出库申请单](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-532434242.md): 
+- 开放平台 > 货源账号 [获取货源账号列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479848083.md): 
+- 开放平台 > 货源账号 [获取账号地址列表](https://s.apifox.cn/fd54e57e-9b98-4c34-bada-306221c39e68/api-479848084.md): 
